@@ -7,3 +7,4 @@
 ## 添加特性
 - `Console.WriteLine("Hello World")`
 - `printf("Hello World")`
+- `System.out.println("HelloWorld")`
