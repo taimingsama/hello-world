@@ -6,3 +6,4 @@
 4. 世界
 ## 添加特性
 - `Console.WriteLine("Hello World")`
+- `printf("Hello World")`
